@@ -106,3 +106,29 @@ Mark the variables with the desired value, one by one
 
 **Operator, Operands, and Expressions**
 Operators are the constructs which can manipulate the value of operands.
+
+**(+) Addition**
+Adds values on either side of the operator.
+
+**(-) subtraction**
+Subtracts right hand operand from left hand operand.
+
+**multiply**
+Gives the multiplication of the two numbers or returns the string repeated that many times.
+
+**Exponent**
+Performs exponential (power) calculation on operators
+
+**Less than (<)**
+will return boolean values, True or False
+
+**Conditional Expression**
+
+**IF**
+With if, the decision will determined by the boolean values of the expression. If the expression true so statement block under expression will be executed
+
+**ELSE**
+Else just can be used if there is statement if before. Else is optional and single use
+
+**ELIF**
+Elif is the short of ‘else if’. This statement used to alternative of nested if. Elif is optional and unlimited
